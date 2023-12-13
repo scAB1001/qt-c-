@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>page1.html</file>
+        <file>page2.html</file>
+        <file>world.png</file>
+    </qresource>
+</RCC>
